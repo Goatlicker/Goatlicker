@@ -15,4 +15,5 @@ p {
   resize: both;
   font-weight: bold;
   text-size: 16px;
+  overflow: scroll;
 }
