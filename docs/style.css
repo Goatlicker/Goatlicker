@@ -5,12 +5,14 @@ body {
   }
 
 p {
-  font-size: 12px;
 }
 
 .header  {
   text-align: center;
   background-color: black;
   color: white;
-  opacity: 0.7;
+  opacity: 0.4;
+  resize: both;
+  font-weight: bold;
+  text-size: 16px;
 }
