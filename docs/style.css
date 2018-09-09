@@ -16,4 +16,5 @@ p {
   opacity: 0.4;
   font-weight: bold;
   text-size: 16px;
+  width: 100%;
 }
