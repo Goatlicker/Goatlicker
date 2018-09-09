@@ -2,10 +2,6 @@ body {
   
   }
 
-div.weiner {
-  background-image: url("https://i.imgur.com/pti1Ix9.jpg");
-}
-
 p {
-  color: yellow;
+  font-family: helvetica;
 }
