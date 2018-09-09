@@ -9,5 +9,8 @@ p {
 }
 
 .header  {
-  text-align: center;  
+  text-align: center;
+  background-color: black;
+  color: white;
+  transparency: 0.7;
 }
