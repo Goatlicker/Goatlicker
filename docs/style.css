@@ -1,6 +1,7 @@
 body {
   font-family: Georgia;
-  background-image: url("https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-620553.jpg")
+  background-image: url("https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-620553.jpg");
+  background-size: cover;
   }
 
 p {
