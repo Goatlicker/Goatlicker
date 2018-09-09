@@ -2,6 +2,7 @@ body {
   font-family: Georgia;
   background-image: url("https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-620553.jpg");
   background-size: cover;
+  resize: both;
   }
 
 p {
@@ -12,8 +13,6 @@ p {
   background-color: black;
   color: white;
   opacity: 0.4;
-  resize: both;
   font-weight: bold;
   text-size: 16px;
-  overflow: scroll;
 }
